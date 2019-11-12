@@ -9,6 +9,7 @@
         <module>totti-web</module>
         <module>totti-service</module>
         <module>totti-dao</module>
+        <module>totti-common</module>
     </modules>
 
     <parent>
