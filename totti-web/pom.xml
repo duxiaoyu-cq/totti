@@ -20,6 +20,12 @@
             <version>${project.parent.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.dxy.totti</groupId>
+            <artifactId>totti-app</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+
     </dependencies>
 
     <build>
